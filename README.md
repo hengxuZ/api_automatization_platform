@@ -1,0 +1,2 @@
+# api_automatization_platform
+这是一个关于NodeJS搭建的接口自动化平台
